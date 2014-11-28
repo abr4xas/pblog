@@ -1,3 +1,13 @@
+# Pelican
+output
+Makefile
+develop_server.sh
+pelican.pid
+srv.pid
+pelicanconf.pyc
+cache
+cache/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
