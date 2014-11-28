@@ -5,6 +5,7 @@ develop_server.sh
 pelican.pid
 srv.pid
 pelicanconf.pyc
+fabfile.py
 cache
 cache/*
 
