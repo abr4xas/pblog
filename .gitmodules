@@ -1,0 +1,6 @@
+[submodule "content"]
+        path = content
+        url = https://github.com/abr4xas/post.git
+[submodule "abr4xas"]
+        path = abr4xas
+        url = https://github.com/abr4xas/pelican-simplegrey.git
