@@ -18,7 +18,7 @@ SOCIAL = (
           ('twitter', 'http://twitter.com/abr4xas'),
           ('github', 'http://github.com/abr4xas'),
 )
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
 THEME = 'abr4xas'
