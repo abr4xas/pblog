@@ -1,6 +1,6 @@
 # Pelican
 output
-Makefile
+#Makefile
 develop_server.sh
 pelican.pid
 srv.pid
