@@ -1,0 +1,78 @@
+commit 30830faea11f94682d5f303d6e7402134740a908 (HEAD, master)
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 18:10:15 2014 -0500
+
+    Actualizado, se agregan valores para ftp
+
+commit d0921cce3f3dcfe2292f4019775d278c23ddd48a (origin/master, origin/HEAD)
+Merge: 4bf9b8c b292577
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:18:27 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 4bf9b8c5bb7fd1351e291ee6300b1f3df56bc9e8
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:17:53 2014 -0500
+
+    Actualizado
+
+commit 9fc2ee75e68819e5a6e5b7e7c39797bcf673d850
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:17:38 2014 -0500
+
+    Se agrega Makefile
+
+commit b292577df2ddc3f94368c32759e40f982143fd28
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Dec 5 11:00:18 2014 -0430
+
+    Create requirements.txt
+
+commit e4936c4c73c067d154772323b99a2c04bdd6ed57
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 4 10:33:39 2014 -0500
+
+     ...
+
+commit b3074002fba6bac3ab09385edf3a74d967c44523
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 1 13:33:10 2014 -0500
+
+    Actualizado
+
+commit 668cce75bf1543b98e12e8601b60db35e6f8dde3
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Nov 28 10:14:52 2014 -0500
+
+    Actualizado
+
+commit bf774476bf0497bf96da346417dc5080645e6eff
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 10:25:00 2014 -0430
+
+    Create .gitmodules
+
+commit a1d0e599318f6eed4364ea78f2aaaba49c01cc4d
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:56:26 2014 -0430
+
+    Create pelicanconf.py
+
+commit 2de2f0b997cbda5152318ce3bf82059b3a9a4b47
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:53:25 2014 -0430
+
+    Update .gitignore
+
+commit 5b29e69c4580859fbd9eecca70b43b6a5ecb34f0
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:50:21 2014 -0430
+
+    Create README.md
+
+commit 693c298d32c3ca01fbadcc246abc68978f2decca
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:48:50 2014 -0430
+
+    Initial commit
