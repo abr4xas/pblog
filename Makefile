@@ -8,8 +8,8 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=anonymous
+FTP_HOST=abr4xas.org
+FTP_USER=blogabr4xas
 FTP_TARGET_DIR=/
 
 SSH_HOST=localhost
