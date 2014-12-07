@@ -28,3 +28,8 @@
 │       └── sitemap.pyc
 └── README.md
 ```
+## How to use
+
+```bash
+pip install -r requirements.txt
+```
