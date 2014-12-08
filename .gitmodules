@@ -7,3 +7,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/getpelican/pelican-plugins.git
+[submodule "hauntr"]
+	path = hauntr
+	url = https://github.com/abr4xas/hauntr.git
