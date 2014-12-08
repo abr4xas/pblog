@@ -21,18 +21,15 @@ SOCIAL = (
 DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-#THEME = 'abr4xas'
-THEME = 'ghastly'
-DIRECT_TEMPLATES = (('index', 'archives', '404'))
+THEME = 'abr4xas'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
 USE_PAGER = 'True'
 CC_LICENSE = "CC-BY-NC-SA"
 OPEN_GRAPH_FB_APP_ID = '742637482460716'
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ['sitemap','related_posts','webassets','cssmin']
-
+PLUGIN_PATHS = ['plugins/',]
+PLUGINS = ['sitemap',]
 SITEMAP = {
     'format': 'xml',
     'priorities': {
