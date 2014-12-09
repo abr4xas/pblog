@@ -10,3 +10,6 @@
 [submodule "hauntr"]
 	path = hauntr
 	url = https://github.com/abr4xas/hauntr.git
+[submodule "pelican-spot"]
+	path = pelican-spot
+	url = https://github.com/spinner-dev/pelican-spot.git

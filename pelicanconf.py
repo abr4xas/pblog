@@ -8,7 +8,7 @@ TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 # Blogroll
 LINKS =  (
-		    ('xombra', 'http://xombra.com/'),
+		('xombra', 'http://xombra.com/'),
           	('sinfallas', 'http://sinfallas.wordpress.com/'),
           	('echevemaster', 'http://echevemaster.org/'),
           	('Blog Bitix', 'http://picodotdev.github.io/blog-bitix/'),    
@@ -18,10 +18,10 @@ SOCIAL = (
           ('twitter', 'http://twitter.com/abr4xas'),
           ('github', 'http://github.com/abr4xas'),
 )
-DEFAULT_PAGINATION = 6
+DEFAULT_PAGINATION = 4
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-THEME = 'abr4xas'
+THEME = 'pelican-spot'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
