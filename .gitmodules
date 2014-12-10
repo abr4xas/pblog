@@ -7,3 +7,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/getpelican/pelican-plugins.git
+[submodule "ptemplate"]
+	path = ptemplate
+	url = https://github.com/spinner-dev/ptemplate.git
