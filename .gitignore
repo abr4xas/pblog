@@ -1,7 +1,7 @@
 # Pelican
 output
 #Makefile
-develop_server.sh
+#develop_server.sh
 pelican.pid
 srv.pid
 pelicanconf.pyc
