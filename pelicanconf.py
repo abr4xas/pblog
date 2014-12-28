@@ -21,7 +21,7 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-THEME = 'ptemplate'
+THEME = 'pelican-vapor-theme'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
@@ -43,7 +43,19 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+STATIC_PATHS = ['static/browserconfig.xml',
+		'static/large.png',
+		'static/square.png',
+		'static/tiny.png',
+		'static/wide.png',]
 
+EXTRA_PATH_METADATA = {
+    'static/browserconfig.xml': {'path': 'browserconfig.xml'},
+    'static/large.png': {'path': 'large.png'},
+    'static/square.png': {'path': 'square.png'},
+    'static/tiny.png': {'path': 'tiny.png'}, 
+    'static/wide.png': {'path':'wide.png'},
+}
 RELATED_POSTS_MAX = 10
 GOOGLE_ANALYTICS = 'UA-56619331-1'
 GOOGLE_SV = '858AWu06X8qc7TbbcoxGVUySmw5YVEvau_yPyr3_QKI'
