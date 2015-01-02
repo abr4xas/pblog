@@ -28,8 +28,10 @@ TWITTER_USERNAME = 'abr4xas'
 USE_PAGER = 'True'
 CC_LICENSE = "CC-BY-NC-SA"
 OPEN_GRAPH_FB_APP_ID = '742637482460716'
+PUBLISHER = 'https://plus.google.com/+Abr4xasOrg'
+STARTUP_IMAGE = 'http://blog.abr4xas.org/theme/images/logo.png'
 PLUGIN_PATHS = ['plugins/',]
-PLUGINS = ['sitemap',]
+PLUGINS = ['sitemap','optimize_images',]
 SITEMAP = {
     'format': 'xml',
     'priorities': {
