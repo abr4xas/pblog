@@ -31,7 +31,7 @@ OPEN_GRAPH_FB_APP_ID = '742637482460716'
 PUBLISHER = 'https://plus.google.com/+Abr4xasOrg'
 STARTUP_IMAGE = 'http://blog.abr4xas.org/theme/images/logo.png'
 PLUGIN_PATHS = ['plugins/',]
-PLUGINS = ['sitemap','optimize_images',]
+PLUGINS = ['sitemap',]
 SITEMAP = {
     'format': 'xml',
     'priorities': {
