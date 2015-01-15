@@ -1,0 +1,262 @@
+commit bfe4f50987d2cb3e1fddaf8231c1a464e8bf47aa
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jan 14 15:17:50 2015 -0500
+
+    Actualizando repo
+
+commit 4670bd073dda1adcd0ea69d3fcb94ab4dc0a2c81
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:40:41 2015 -0430
+
+    Update .travis.yml
+
+commit c26cd5cab0a4948506433f7235c1b83f74f0f7d2
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:37:41 2015 -0430
+
+    Update README.md
+
+commit bbe7c45d9a9e7a65e3a43cb55529d1ade0b05838
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:33:35 2015 -0430
+
+    Update requirements.txt
+
+commit 8fe89c3a8c9f2cf7520f300e4466376bacf9a85b
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:33:14 2015 -0430
+
+    Create .travis.yml
+
+commit f968b53ed04f58cda2bde0e7324c1dd43b8de5b4
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 2 13:44:38 2015 -0500
+
+    Actualizado
+
+commit a97bbd751248c2f763e79f7ee43a904e01923e56
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Dec 30 12:21:59 2014 -0500
+
+    Actualizado
+
+commit ca825e9813d4ea318acd484b2447633865eb64ec
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 28 18:12:05 2014 -0500
+
+    actualizado
+
+commit d2caa616e77d19136f62698341cf28f4465a30aa
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 28 15:28:27 2014 -0500
+
+    actualizado
+
+commit b33795385cfa64f5f31547a8cdfe6473531ae650
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 28 15:26:56 2014 -0500
+
+    Actualizado
+
+commit e86cf1674c1ebd2bb397fcf975403b6d2a872161
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 18 13:06:11 2014 -0500
+
+    Actualizado
+
+commit df20fcfbc7e45988f3d1ddc98a3cdca1ed008572
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 18 09:26:45 2014 -0500
+
+    Agragado otra plantilla
+
+commit c7c93752be6b0d3ab336b9dccb81cc558cccec55
+Merge: 2ac6443 8f1a23c
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 13 10:49:14 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 2ac6443d3c15e081f0e228dffe99c94e99e7158c
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 13 10:45:15 2014 -0500
+
+    Actualizado
+
+commit 3528adee509320816a5a1ced6071f9b35aced7f1
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 13 10:42:52 2014 -0500
+
+    Actualizado
+
+commit 8f1a23cc48c4b04dbc0fafab7f5214ec956b43ff
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Thu Dec 11 15:13:47 2014 -0430
+
+    Update pelicanconf.py
+    
+    Se agrega variable para el meta de verificacion de google.
+
+commit 093413221d8787397f442fbfce04a22fc7f915b8
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Dec 10 09:03:39 2014 -0500
+
+    Actualizado
+
+commit 241bf8e0aecfb6ede64f7a26136f8e5c484cbd20
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Dec 10 08:51:25 2014 -0500
+
+    Actualizado
+
+commit 21c5d57caa7ee4a76ffd977b94f88bbece6c48fb
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Dec 9 15:30:44 2014 -0500
+
+    Actualizada la paginacion
+
+commit 6da52320073824a5a1339ac3341ec0bbeca7bcba
+Author: ángel <bullgram@gmail.com>
+Date:   Mon Dec 8 16:14:30 2014 -0430
+
+    Update publishconf.py
+
+commit 8b069936ef7ea3b555ddaa3b6a1a760ed7fa30bc
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 15:28:43 2014 -0500
+
+    Agregado hauntr
+
+commit 18ef86abd384935c5cbbdb5de8e5dce7629f1a7c
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 15:28:27 2014 -0500
+
+    Agregado otro modulo
+
+commit e4ce7c3dc11aaae9640baf599d1a02365d77cbba
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:54:21 2014 -0500
+
+    Actualizado
+
+commit 7f95578d0b31c967d69dc92ad894ae5073086b26
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:48:01 2014 -0500
+
+    Actualizado
+
+commit 98e45de2e82d9ddd4d9d68c138a880f700d72ef0
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:47:02 2014 -0500
+
+    Actualizado
+
+commit 96f655ebf72019c14248fc312d136e5180335b69
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:30:41 2014 -0500
+
+    Se agrega tema nuevo y plugins
+
+commit a37f79a136d2ae3939499d41f123292d530331a5
+Merge: b5f79d1 0d73b44
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 7 14:16:27 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit b5f79d160c1e51913b32b373638a60cf0380939d
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 7 14:15:51 2014 -0500
+
+    Actualizado
+
+commit 0d73b441f66f3fd5cc7bcf1ee78ea3022a85636d
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Dec 6 19:36:57 2014 -0430
+
+    Update README.md
+
+commit 4d0ef7205d2bbd6c018400837f199604d6a7bf46
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 18:10:36 2014 -0500
+
+    Actualizado
+
+commit 30830faea11f94682d5f303d6e7402134740a908
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 18:10:15 2014 -0500
+
+    Actualizado, se agregan valores para ftp
+
+commit d0921cce3f3dcfe2292f4019775d278c23ddd48a
+Merge: 4bf9b8c b292577
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:18:27 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 4bf9b8c5bb7fd1351e291ee6300b1f3df56bc9e8
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:17:53 2014 -0500
+
+    Actualizado
+
+commit 9fc2ee75e68819e5a6e5b7e7c39797bcf673d850
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:17:38 2014 -0500
+
+    Se agrega Makefile
+
+commit b292577df2ddc3f94368c32759e40f982143fd28
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Dec 5 11:00:18 2014 -0430
+
+    Create requirements.txt
+
+commit e4936c4c73c067d154772323b99a2c04bdd6ed57
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 4 10:33:39 2014 -0500
+
+     ...
+
+commit b3074002fba6bac3ab09385edf3a74d967c44523
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 1 13:33:10 2014 -0500
+
+    Actualizado
+
+commit 668cce75bf1543b98e12e8601b60db35e6f8dde3
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Nov 28 10:14:52 2014 -0500
+
+    Actualizado
+
+commit bf774476bf0497bf96da346417dc5080645e6eff
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 10:25:00 2014 -0430
+
+    Create .gitmodules
+
+commit a1d0e599318f6eed4364ea78f2aaaba49c01cc4d
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:56:26 2014 -0430
+
+    Create pelicanconf.py
+
+commit 2de2f0b997cbda5152318ce3bf82059b3a9a4b47
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:53:25 2014 -0430
+
+    Update .gitignore
+
+commit 5b29e69c4580859fbd9eecca70b43b6a5ecb34f0
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:50:21 2014 -0430
+
+    Create README.md
+
+commit 693c298d32c3ca01fbadcc246abc68978f2decca
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:48:50 2014 -0430
+
+    Initial commit
