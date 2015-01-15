@@ -1,3 +1,22 @@
+commit bee30bc727c060cc232e6fb171a6d3641a55916e
+Merge: 25d4ed0 78d8038
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 17:41:48 2015 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 25d4ed085138a3e7383bea3a9e4afda62a7dc600
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 17:41:12 2015 -0500
+
+    Agregando boton de Planeta VaSLibre
+
+commit 78d8038576e3a1e0606141ecc2f9079d51f040c5
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 16:09:35 2015 -0430
+
+    Update README.md
+
 commit bfe4f50987d2cb3e1fddaf8231c1a464e8bf47aa
 Author: abr4xas <me@abr4xas.org>
 Date:   Wed Jan 14 15:17:50 2015 -0500
