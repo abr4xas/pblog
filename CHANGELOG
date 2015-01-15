@@ -1,3 +1,15 @@
+commit 6ee3cae86d9c8e67851af6af21596804056c141e
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 18:28:09 2015 -0500
+
+    Actualizando normalize.css
+
+commit bf8a765db1b94d4f17c64b3b36e6847a1916af0f
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 17:42:05 2015 -0500
+
+    Agregando boton de Planeta VaSLibre
+
 commit bee30bc727c060cc232e6fb171a6d3641a55916e
 Merge: 25d4ed0 78d8038
 Author: abr4xas <me@abr4xas.org>
