@@ -38,7 +38,7 @@ SOCIAL = (
 PLUGIN_PATHS = ['plugins/',]
 PLUGINS = ['sitemap',]
 SITEMAP = {
-    'format': 'xml',
+'format': 'xml',
     'priorities': {
         'articles': 0.5,
         'indexes': 0.5,
@@ -55,12 +55,14 @@ STATIC_PATHS = ['static/browserconfig.xml',
 		'static/square.png',
 		'static/tiny.png',
 		'static/wide.png',
-        'static/socialmedia.txt',]
+        'static/socialmedia.txt',
+        'static/.htaccess',]
 EXTRA_PATH_METADATA = {
     'static/browserconfig.xml': {'path': 'browserconfig.xml'},
     'static/large.png': {'path': 'large.png'},
     'static/square.png': {'path': 'square.png'},
     'static/tiny.png': {'path': 'tiny.png'}, 
     'static/wide.png': {'path':'wide.png'},
-    'static/socialmedia.txt': {'path':'socialmedia.txt'},    
+    'static/socialmedia.txt': {'path':'socialmedia.txt'}, 
+    'static/.htaccess': {'path':'.htaccess'},     
 }
