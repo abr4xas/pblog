@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# Ejecutar para actualizar los submodulos que contenga el repo
+#
 
-tar -zcvf output.tar.gz output && cp output.tar.gz /var/www/ -v && rm -r output
+	git submodule foreach git pull origin master
 exit 0

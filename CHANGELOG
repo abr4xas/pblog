@@ -1,3 +1,9 @@
+commit 482849e4a0e3d8f3c5b7c487075cf81d66eea985
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 19:39:24 2015 -0500
+
+    Remove Inline small JavaScript
+
 commit 6d129306c0ba859bac706d60dc538bd434563794
 Author: abr4xas <me@abr4xas.org>
 Date:   Thu Jan 15 19:17:57 2015 -0500
