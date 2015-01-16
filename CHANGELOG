@@ -1,3 +1,22 @@
+commit cf50ae4ae218ec3058933553acdcf327fbc73393
+Merge: 31f3d16 9a7b5f8
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:08:28 2015 -0430
+
+    Merge branch 'master' of github.com:abr4xas/pblog
+
+commit 31f3d16e1d950463800936929db5c2698d4da264
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:08:16 2015 -0430
+
+    Agregando path para htaccess
+
+commit 9a7b5f84f87beba6e918b7f8633a46f886d2d3e8
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 01:01:00 2015 -0500
+
+    Actualizando repo
+
 commit d51e4059a21f2342d4f73b70b4a0e52cab845761
 Author: abr4xas <me@abr4xas.org>
 Date:   Fri Jan 16 00:56:54 2015 -0500
