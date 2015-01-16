@@ -1,3 +1,15 @@
+commit 22a032b5023ed7338514117224a5264628e8853e
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:14:10 2015 -0430
+
+    Agregadas variables de control e informacion para el tema
+
+commit 05aeb1d68100636d0a4bbd1d3173a3e4d21945f2
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 19:49:19 2015 -0500
+
+    Atualizando travis.yml
+
 commit 96b915af981bd1410b330c7d09f9177ccdf31466
 Author: abr4xas <me@abr4xas.org>
 Date:   Thu Jan 15 19:43:31 2015 -0500
