@@ -9,8 +9,8 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=abr4xas.org
-FTP_USER=blogabr4xas
-FTP_TARGET_DIR=/
+FTP_USER=abr4xas
+FTP_TARGET_DIR=/public_html/blog
 
 SSH_HOST=localhost
 SSH_PORT=22
