@@ -9,13 +9,13 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=abr4xas.org
-FTP_USER=abr4xas
-FTP_TARGET_DIR=/public_html/blog
+FTP_USER=blog@abr4xas.org
+FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_HOST=
+SSH_PORT=
+SSH_USER=abr4xas
+SSH_TARGET_DIR=/
 
 S3_BUCKET=my_s3_bucket
 
