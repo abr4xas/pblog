@@ -8,6 +8,7 @@ pelicanconf.pyc
 fabfile.py
 cache
 cache/*
+output.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
