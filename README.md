@@ -7,3 +7,6 @@
 $ sudo pip install -r requirements.txt
 $ sudo apt-get install lftp -y
 ```
+### Licence
+
+CC Attribution-NonCommercial-ShareAlike 4.0 International License.

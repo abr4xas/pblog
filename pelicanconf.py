@@ -36,7 +36,7 @@ SOCIAL = (
           ('github', 'http://github.com/abr4xas'),
 )
 PLUGIN_PATHS = ['plugins/',]
-PLUGINS = ['minification','sitemap',]
+PLUGINS = ['minification','sitemap','w3c_validate',]
 SITEMAP = {
 'format': 'xml',
     'priorities': {
