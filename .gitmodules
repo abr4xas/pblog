@@ -4,6 +4,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/getpelican/pelican-plugins.git
-[submodule "pelican-vapor-theme"]
-	path = pelican-vapor-theme
-	url = https://github.com/abr4xas/pelican-vapor-theme.git
+[submodule "Casper2Pelican"]
+	path = Casper2Pelican
+	url = https://github.com/abr4xas/Casper2Pelican.git

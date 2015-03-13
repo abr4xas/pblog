@@ -11,7 +11,9 @@ SITE_LANG_ALTERNATE = 'en_GB'
 DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-THEME = 'pelican-vapor-theme'
+#THEME = 'pelican-vapor-theme'
+
+THEME = 'Casper2Pelican'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
@@ -35,8 +37,8 @@ SOCIAL = (
           ('twitter', 'http://twitter.com/abr4xas'),
           ('github', 'http://github.com/abr4xas'),
 )
-PLUGIN_PATHS = ['plugins/',]
 PLUGINS = ['minification','sitemap',]
+PLUGINS = ['sitemap',]
 SITEMAP = {
 'format': 'xml',
     'priorities': {
