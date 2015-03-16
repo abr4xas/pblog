@@ -37,8 +37,8 @@ SOCIAL = (
           ('twitter', 'http://twitter.com/abr4xas'),
           ('github', 'http://github.com/abr4xas'),
 )
+PLUGIN_PATHS = ["plugins",]
 PLUGINS = ['minification','sitemap',]
-PLUGINS = ['sitemap',]
 SITEMAP = {
 'format': 'xml',
     'priorities': {
