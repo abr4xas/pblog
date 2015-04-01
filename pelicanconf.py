@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
 SITEURL = 'http://blog.abr4xas.org'
+# Development
+#SITEURL = ''
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
@@ -11,8 +13,6 @@ SITE_LANG_ALTERNATE = 'en_GB'
 DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-#THEME = 'pelican-vapor-theme'
-
 THEME = 'Casper2Pelican'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
@@ -25,6 +25,7 @@ GOOGLE_ANALYTICS = 'UA-56619331-1'
 GOOGLE_SV = '858AWu06X8qc7TbbcoxGVUySmw5YVEvau_yPyr3_QKI'
 SITE_DESCRIPTION = 'El blog de abr4xas, blog sobre noticias, tecnología, música, gnu/linux, anime, actualidad, intercambio y directorio de informacion de servicios profesionales en tecnología. Eventos, Asesorias Software Libre'
 TAG_LINE = '# nano /var/log/life.log'
+GOOGLE_CUSTOM_SEARCH = 'your search engine unique ID'
 # Blogroll
 LINKS =  (
 		    ('xombra', 'http://xombra.com/'),
