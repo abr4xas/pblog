@@ -1,0 +1,9 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/abr4xas/post.git
+[submodule "Casper2Pelican"]
+	path = Casper2Pelican
+	url = https://github.com/abr4xas/Casper2Pelican.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/getpelican/pelican-plugins.git
