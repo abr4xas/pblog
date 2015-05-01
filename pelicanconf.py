@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
-SITEURL = '//blog.abr4xas.org'
+SITEURL = 'https://blog.abr4xas.org'
 # Development
-#SITEURL = '//192.168.30.10/pblog/output/'
+#SITEURL = 'http://192.168.30.10/pblog/output/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
