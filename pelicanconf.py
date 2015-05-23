@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
-SITEURL = 'https://blog.abr4xas.org'
+#SITEURL = 'https://blog.abr4xas.org'
 # Development
-#SITEURL = 'http://192.168.30.10/pblog/output/'
+SITEURL = 'http://192.168.30.10/pblog/output/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
@@ -13,7 +13,7 @@ SITE_LANG_ALTERNATE = 'en_GB'
 DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-THEME = 'Casper2Pelican'
+THEME = 'sticko-master'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
@@ -42,8 +42,8 @@ SOCIAL = (
           ('github', 'http://github.com/abr4xas'),
 )
 PLUGIN_PATHS = ["plugins",]
-PLUGINS = ['minification','sitemap',]
-#PLUGINS = ['sitemap',]
+#PLUGINS = ['minification','sitemap',]
+PLUGINS = ['sitemap',]
 SITEMAP = {
 'format': 'xml',
     'priorities': {
@@ -68,24 +68,24 @@ STATIC_PATHS = [
 ]
 EXTRA_PATH_METADATA = {
     'static/browserconfig.xml': {
-        'path': 'browserconfig.xml'
+        'path': '../browserconfig.xml'
     },
     'static/large.png': {
-        'path': 'large.png'
+        'path': '../large.png'
     },
     'static/square.png': {
-        'path': 'square.png'
+        'path': '../square.png'
     },
     'static/tiny.png': {
-        'path': 'tiny.png'
+        'path': '../tiny.png'
     }, 
     'static/wide.png': {
-        'path':'wide.png'
+        'path':'../wide.png'
     },
     'static/socialmedia.txt': {
-        'path':'socialmedia.txt'
+        'path':'../socialmedia.txt'
     }, 
     'static/.htaccess': {
-        'path':'.htaccess'
+        'path':'../.htaccess'
     },     
 }
