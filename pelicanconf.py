@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
-#SITEURL = 'https://blog.abr4xas.org'
+SITEURL = 'https://blog.abr4xas.org'
 # Development
-SITEURL = 'http://192.168.30.10/pblog/output/'
+#SITEURL = 'http://192.168.30.10/pblog/output/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
@@ -13,7 +13,7 @@ SITE_LANG_ALTERNATE = 'en_GB'
 DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
-THEME = 'sticko-master'
+THEME = 'Casper2Pelican'
 FEED_RSS = 'feed'
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
