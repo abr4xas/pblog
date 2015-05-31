@@ -42,8 +42,8 @@ SOCIAL = (
           ('github', 'http://github.com/abr4xas'),
 )
 PLUGIN_PATHS = ["plugins",]
-#PLUGINS = ['minification','sitemap',]
-PLUGINS = ['sitemap',]
+PLUGINS = ['minification','sitemap',]
+#PLUGINS = ['sitemap',]
 SITEMAP = {
 'format': 'xml',
     'priorities': {
@@ -68,24 +68,24 @@ STATIC_PATHS = [
 ]
 EXTRA_PATH_METADATA = {
     'static/browserconfig.xml': {
-        'path': '../browserconfig.xml'
+        'path': 'browserconfig.xml'
     },
     'static/large.png': {
-        'path': '../large.png'
+        'path': 'large.png'
     },
     'static/square.png': {
-        'path': '../square.png'
+        'path': 'square.png'
     },
     'static/tiny.png': {
-        'path': '../tiny.png'
+        'path': 'tiny.png'
     }, 
     'static/wide.png': {
-        'path':'../wide.png'
+        'path':'wide.png'
     },
     'static/socialmedia.txt': {
-        'path':'../socialmedia.txt'
+        'path':'socialmedia.txt'
     }, 
     'static/.htaccess': {
-        'path':'../.htaccess'
+        'path':'.htaccess'
     },     
 }
