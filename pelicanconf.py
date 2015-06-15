@@ -31,10 +31,10 @@ TAG_LINE = '# nano /var/log/life.log'
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', '404')
 # Blogroll
 LINKS =  (
-		    ('xombra', 'http://xombra.com/'),
-          	('sinfallas', 'http://sinfallas.wordpress.com/'),
-          	('echevemaster', 'http://echevemaster.org/'),
-          	('Blog Bitix', 'http://picodotdev.github.io/blog-bitix/'),    
+            ('xombra', 'http://xombra.com/'),
+              ('sinfallas', 'http://sinfallas.wordpress.com/'),
+              ('echevemaster', 'http://echevemaster.org/'),
+              ('Blog Bitix', 'http://picodotdev.github.io/blog-bitix/'),
 )
 # Social widget
 SOCIAL = (
@@ -78,14 +78,14 @@ EXTRA_PATH_METADATA = {
     },
     'static/tiny.png': {
         'path': 'tiny.png'
-    }, 
+    },
     'static/wide.png': {
         'path':'wide.png'
     },
     'static/socialmedia.txt': {
         'path':'socialmedia.txt'
-    }, 
+    },
     'static/.htaccess': {
         'path':'.htaccess'
-    },     
+    },
 }
