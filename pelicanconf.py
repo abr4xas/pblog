@@ -5,7 +5,7 @@ AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
 SITEURL = 'https://blog.abr4xas.org'
 # Development
-#SITEURL = 'http://192.168.30.10/pblog/output/'
+#SITEURL = 'http://tma.local/pblog/output/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
