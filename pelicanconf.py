@@ -5,7 +5,7 @@ AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
 SITEURL = 'https://blog.abr4xas.org'
 # Development
-#SITEURL = 'http://tma.local/pblog/output/'
+#SITEURL = 'http://tma.local:8000/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
@@ -42,8 +42,8 @@ SOCIAL = (
           ('github', 'http://github.com/abr4xas'),
 )
 PLUGIN_PATHS = ["plugins",]
-PLUGINS = ['neighbors','minification','sitemap',]
-#PLUGINS = ['sitemap',]
+#PLUGINS = ['neighbors','minification','sitemap',]
+PLUGINS = ['sitemap',]
 SITEMAP = {
 'format': 'xml',
     'priorities': {
