@@ -1,178 +1,1056 @@
-* abr4xas dbc7566 actualizando repo
-* abr4xas 4cde4c5 actualizando repo
-* abr4xas 797d848 actualizando repo
-* abr4xas d1cf5e1 actualizando repo
-* abr4xas f193cc7 actualizando repo
-* abr4xas 3a6129f actualizando repo
-* abr4xas 597ff23 actualizando repo
-* abr4xas 5230887 actualizando repo
-* abr4xas a5f304c actualizando repo
-* abr4xas 148258d Actualizado
-* abr4xas af1c4fd actualizado
-* abr4xas ba19316 actualizado
-* abr4xas 16d0037 Actualizado
-* abr4xas 27e9bfb actualizado
-* abr4xas 7393b33 Actualizado
-* abr4xas f84230b actualizado
-* abr4xas afec618 deleted
-* abr4xas 1358083 actualizado
-* abr4xas 5000bdd modificado
-* abr4xas 91120b1 nuevo contenido e imagenes
-* abr4xas 30a8dbc agregada imagen nueva del logo
-* abr4xas 12dad6e actualizado
-* abr4xas 9037d86 Actualizado
-* abr4xas 064700a Actualizando plantilla
-* abr4xas a4ae223 Actualizando plantilla
-* abr4xas 7b115c4 Cambios en la plantilla
-* abr4xas e592d93 modificado
-* ángel d36c05d Update .travis.yml
-* abr4xas 07eb32d Actualizado
-* abr4xas 469ed84 deleted
-* abr4xas 350faff se eliminan submodulos
-* ángel 327f233 Update .travis.yml
-* abr4xas 720df1a Actualizado
-* abr4xas 267745b Actualizado
-* abr4xas b1e52d2 Actualizado
-* abr4xas 1c4658f Actualizando plantilla, agregando soporte a emojis
-* abr4xas 8a4b010 Actualizando plantilla, agregando soporte a emojis
-* abr4xas bdffffa Actualizando repo
-* abr4xas fd180fb Actualizando repo
-* abr4xas c678d61 Actualizando repo
-* abr4xas 6344ea9 Actualizando repo
-* abr4xas a1559fc Actualizando repo
-* abr4xas d192fd9 Actualizando repo
-* abr4xas 0f6445d Actualizando repo
-* abr4xas f3ebaa3 Actualizando repo
-* abr4xas fcd8131 Actualizando repo
-* abr4xas c56fc1e Actualizando repo
-* abr4xas e32955b Actualizando repo
-* abr4xas 0817058 Actualizando repo
-* abr4xas 219edea Actualizando repo
-* abr4xas 4574f10 Actualizando repo
-* abr4xas 48e567a Actualizando repo
-* abr4xas cd2a4f4 Actualizando repo
-* abr4xas 76f5ff1 actualizando repo
-* abr4xas 17d6179 actualizando repo
-* abr4xas d342bd3 actualizando repo
-* abr4xas aa1a07b actualizando repo
-* abr4xas 0481041 Actualizando repo
-* abr4xas 547dca1 Actualizando repo
-* abr4xas 3a372b9 Actualizando repo
-* abr4xas b2474ff Actualizando repo
-* abr4xas 8e82658 Actualizando repo
-* abr4xas b9f496d Actualizando repo
-* abr4xas 701a272 Actualizando repo
-* abr4xas 5b2be37 Actualizando repo
-* root c43b6c0 Actualizando repo
-* abr4xas 044bfa1 Actualizando repo
-* abr4xas 175b6f7 Actualizando repo
-* abr4xas 127b8c4 Actualizando repo
-* abr4xas 6ac78c4 Actualizando repo
-* abr4xas a8d6096 Actualizando repo
-* abr4xas 2495b92 Actualizando repo
-* abr4xas 30472d9 Actualizando repo
-* abr4xas bdf468a Actualizando repo
-* abr4xas 4dbbbbb Actualizando repo
-* abr4xas 127bfea Actualizando repo
-* abr4xas bbc57a2 Actualizando repo
-* abr4xas d192d42 Actualizando repo
-* abr4xas f3fc892 Actualizando repo
-* abr4xas 150d14a Actualizando repo
-* abr4xas 335d4f3 Actualizando repo
-* abr4xas 2c06818 Actualizando repo
-* abr4xas 2152aca Actualizando ruta FTP
-* abr4xas e3474e4 Actualizando repo
-* abr4xas 8238cec Actualizando repo
-* abr4xas 23eb5eb Open dArignac/pelican-minification/#2
-* abr4xas b5e7c42 Agregando pelican-minification 0.1.0 para prueba
-* abr4xas bed3ab3 Actualizando repo
-* abr4xas 06f1928 Actualizando repo
-* abr4xas ca68739 Actualizando repo
-* abr4xas 15a92e5 Actualizando repo
-* abr4xas cdb2ba5 Actualizando repo
-* abr4xas c9afe60 Actualizando repo
-* abr4xas 7dada2d Actualizando repo
-* abr4xas eb6788a Actualizando repo
-* abr4xas 5c885b6 Actualizando repo
-* abr4xas a0bd0f3 Actualizando repo
-* abr4xas 9503062 Actualizando repo
-* abr4xas aa16263 Actualizando repo
-* abr4xas b8b971e Actualizando repo
-* abr4xas ed3d2de Actualizando repo
-* abr4xas 73dc063 Actualizando repo
-* abr4xas 2b7ec7a Actualizando repo
-* abr4xas 544a166 Agregando path para htaccess
-*   abr4xas cf50ae4 Merge branch 'master' of github.com:abr4xas/pblog
-|\  
-| * abr4xas 9a7b5f8 Actualizando repo
-| * abr4xas d51e405 Actualizando repo
-| * abr4xas aaa820a Actualizando repo
-| * abr4xas f3de143 Actualizando repo
-| * abr4xas 7aef852 Actualizando repo
-* | abr4xas 31f3d16 Agregando path para htaccess
-|/  
-* abr4xas 3dcf890 Actualizando repo
-* abr4xas 4c896a1 Actualizando repo
-* abr4xas c9d0c97 Actualizando repo
-* abr4xas 22a032b Agregadas variables de control e informacion para el tema
-* abr4xas 05aeb1d Atualizando travis.yml
-* abr4xas 96b915a Actualizando script para actualizacion de submodulos git
-* abr4xas 482849e Remove Inline small JavaScript
-* abr4xas 6d12930 Minifying normalize.css.min
-* abr4xas aa9f787 Cambios minimos
-* abr4xas 6ee3cae Actualizando normalize.css
-* abr4xas bf8a765 Agregando boton de Planeta VaSLibre
-*   abr4xas bee30bc Merge branch 'master' of https://github.com/abr4xas/pblog
-|\  
-| * ángel 78d8038 Update README.md
-* | abr4xas 25d4ed0 Agregando boton de Planeta VaSLibre
-|/  
-* abr4xas bfe4f50 Actualizando repo
-* ángel 4670bd0 Update .travis.yml
-* ángel c26cd5c Update README.md
-* ángel bbe7c45 Update requirements.txt
-* ángel 8fe89c3 Create .travis.yml
-* abr4xas f968b53 Actualizado
-* abr4xas a97bbd7 Actualizado
-* abr4xas ca825e9 actualizado
-* abr4xas d2caa61 actualizado
-* abr4xas b337953 Actualizado
-* abr4xas e86cf16 Actualizado
-* abr4xas df20fcf Agragado otra plantilla
-*   abr4xas c7c9375 Merge branch 'master' of https://github.com/abr4xas/pblog
-|\  
-| * ángel 8f1a23c Update pelicanconf.py
-* | abr4xas 2ac6443 Actualizado
-* | abr4xas 3528ade Actualizado
-* | abr4xas 0934132 Actualizado
-|/  
-* abr4xas 241bf8e Actualizado
-* abr4xas 21c5d57 Actualizada la paginacion
-* ángel 6da5232 Update publishconf.py
-* abr4xas 8b06993 Agregado hauntr
-* abr4xas 18ef86a Agregado otro modulo
-* abr4xas e4ce7c3 Actualizado
-* abr4xas 7f95578 Actualizado
-* abr4xas 98e45de Actualizado
-* abr4xas 96f655e Se agrega tema nuevo y plugins
-*   abr4xas a37f79a Merge branch 'master' of https://github.com/abr4xas/pblog
-|\  
-| * ángel 0d73b44 Update README.md
-* | abr4xas b5f79d1 Actualizado
-|/  
-* abr4xas 4d0ef72 Actualizado
-* abr4xas 30830fa Actualizado, se agregan valores para ftp
-*   abr4xas d0921cc Merge branch 'master' of https://github.com/abr4xas/pblog
-|\  
-| * ángel b292577 Create requirements.txt
-* | abr4xas 4bf9b8c Actualizado
-* | abr4xas 9fc2ee7 Se agrega Makefile
-|/  
-* abr4xas e4936c4  ...
-* abr4xas b307400 Actualizado
-* abr4xas 668cce7 Actualizado
-* ángel bf77447 Create .gitmodules
-* ángel a1d0e59 Create pelicanconf.py
-* ángel 2de2f0b Update .gitignore
-* ángel 5b29e69 Create README.md
-* ángel 693c298 Initial commit
+commit defc0c3a4128329af7cc04ebf635c3ace9813565
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Nov 2 18:21:46 2015 -0430
+
+    actualizado makefile
+
+commit f376dea72a0b0012cb2eaaa5f54afba05df0400e
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Nov 2 18:15:26 2015 -0430
+
+    modificado
+
+commit d7f45590bc3baa658f49f5b51ff32e78d01ae183
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Nov 2 18:13:31 2015 -0430
+
+    actualizado
+
+commit c8e33c48b5b9422ee45e603e768e10fd3e36de59
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Nov 2 18:06:07 2015 -0430
+
+    actualizando repo
+
+commit a4a1567a882f25e32de872451c877bca9f54cef6
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Sun Aug 2 16:38:56 2015 -0430
+
+    Update README.md
+
+commit c6197e211dfb5e163e72900079a25871bb16f631
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Sun Aug 2 16:38:13 2015 -0430
+
+    Create .coveralls.yml
+
+commit 2940b5a2b970fa9c3e944fa3d5fe9040545c1d1c
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jul 24 12:10:02 2015 -0430
+
+    Actualizando repo
+
+commit dbc75661ea709a524849c0a792b49de61cb270dc
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jul 13 10:45:06 2015 -0430
+
+    actualizando repo
+
+commit 4cde4c50169c51b47e04328ac8f7abd8e087107d
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Jul 11 18:29:44 2015 -0430
+
+    actualizando repo
+
+commit 797d848f5cae3934924db55634965dfbf4968f60
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Jul 11 17:27:59 2015 -0430
+
+    actualizando repo
+
+commit d1cf5e1e36d7cdade5026f57837e3b472337d3b4
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 1 15:32:29 2015 -0430
+
+    actualizando repo
+
+commit f193cc742bf5691bf88bad3ffa1f3dbd7634485c
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jul 1 13:43:11 2015 -0430
+
+    actualizando repo
+
+commit 3a6129f946f2e0cb6c040b3c1e2812f794bbc7ca
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jun 30 22:44:09 2015 -0430
+
+    actualizando repo
+
+commit 597ff23c4168213ee50ebe6c418722655a95fd28
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jun 29 23:16:50 2015 -0430
+
+    actualizando repo
+
+commit 5230887fcac3e4b61e939c39e9474df8614a7bd6
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jun 29 23:09:14 2015 -0430
+
+    actualizando repo
+
+commit a5f304cabfe9b854851c0f409969a0e193a43ced
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jun 29 23:05:08 2015 -0430
+
+    actualizando repo
+
+commit 148258d20921cec627ab7223642d8b8c0fe26f7b
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jun 16 21:52:02 2015 -0430
+
+    Actualizado
+
+commit af1c4fd5494bb5d74da7b3cd715f4f409b642892
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jun 15 09:31:03 2015 -0430
+
+    actualizado
+
+commit ba19316d78f20162e6e120fa8afdd1840ec6f703
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jun 15 09:30:48 2015 -0430
+
+    actualizado
+
+commit 16d0037346e19c8c3c7878abcdac12b66c89a095
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jun 15 09:30:21 2015 -0430
+
+    Actualizado
+
+commit 27e9bfb8588629fd4b04bb9eb300a7f71293ffa6
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun May 31 17:19:31 2015 -0430
+
+    actualizado
+
+commit 7393b33e874e2cdba56afe24da3d4e0ad3b0a847
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun May 31 17:18:45 2015 -0430
+
+    Actualizado
+
+commit f84230b8e3aa9966110500eff924851b87cfa566
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat May 23 16:36:45 2015 -0430
+
+    actualizado
+
+commit afec6180e95cd6e31778998968c3492537d67fbc
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat May 23 15:58:35 2015 -0430
+
+    deleted
+
+commit 1358083b889dd483f214dd776d20760cb57f5d6e
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed May 13 21:25:26 2015 -0430
+
+    actualizado
+
+commit 5000bddf73509cad81e971d8d79b19bf51f89679
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat May 9 17:49:13 2015 -0430
+
+    modificado
+
+commit 91120b1badfc976ca0a337ba6962c3ad95581744
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri May 1 13:07:24 2015 -0430
+
+    nuevo contenido e imagenes
+
+commit 30a8dbc40119c4629bda8fadc7a63f5d70924987
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri May 1 11:57:03 2015 -0430
+
+    agregada imagen nueva del logo
+
+commit 12dad6eb5fcd37ce4b6a0c4bc79272e711a99a72
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri May 1 11:53:33 2015 -0430
+
+    actualizado
+
+commit 9037d865e37539b0a7934afbbfd21e03b00cc72b
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Apr 26 21:35:41 2015 -0430
+
+    Actualizado
+
+commit 064700a38e9d42dec1283a7a4d1f53f14dfd7300
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Apr 13 22:27:56 2015 -0430
+
+    Actualizando plantilla
+
+commit a4ae223f40dc8ebadbce29f36e538752d13357e7
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Apr 13 22:27:29 2015 -0430
+
+    Actualizando plantilla
+
+commit 7b115c4e26c77e0f7c6d06209ce545521f3a3ff3
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 20:25:04 2015 -0430
+
+    Cambios en la plantilla
+
+commit e592d938cb720548ced779c905591cfe11291ee7
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 20:24:44 2015 -0430
+
+    modificado
+
+commit d36c05ddfcea25336c7fbe8c4065dac5ab761f7f
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Thu Apr 2 16:25:38 2015 -0430
+
+    Update .travis.yml
+
+commit 07eb32dbd268cff6d8940131040ff4787455ad53
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 16:22:27 2015 -0430
+
+    Actualizado
+
+commit 469ed8465cc2d86e10e842b387031499943a7ef2
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 16:19:19 2015 -0430
+
+    deleted
+
+commit 350faff86cd0d8ab8ec7c1e3cab93d474a3b7d5b
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 16:17:46 2015 -0430
+
+    se eliminan submodulos
+
+commit 327f233ed4051b7e7ec7c6cd5d79bd9e20522199
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Thu Apr 2 16:13:47 2015 -0430
+
+    Update .travis.yml
+
+commit 720df1abb75ff37bb1006e277f09c4510d37b4e2
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 15:57:21 2015 -0430
+
+    Actualizado
+
+commit 267745bb240962fc93db48f7aa2693acfa0b6723
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 15:51:37 2015 -0430
+
+    Actualizado
+
+commit b1e52d2e00692943b4c3071f7b0425ad93c781c9
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Apr 2 15:51:02 2015 -0430
+
+    Actualizado
+
+commit 1c4658f202da6d35f470d0e4d93492c3d3987cb6
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Mar 31 20:27:01 2015 -0430
+
+    Actualizando plantilla, agregando soporte a emojis
+
+commit 8a4b010821c851dc9bf478589379bc149e7bb76a
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Mar 31 20:26:08 2015 -0430
+
+    Actualizando plantilla, agregando soporte a emojis
+
+commit bdffffa32a6278407815b96985ce54693ee72fc8
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 16:23:50 2015 -0430
+
+    Actualizando repo
+
+commit fd180fb7b780eaa0c729d7fdc0aef7c7136b4ff9
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 15:31:41 2015 -0430
+
+    Actualizando repo
+
+commit c678d61790c8c37e4dcb4e506dfd0a2d08f400ee
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 15:14:57 2015 -0430
+
+    Actualizando repo
+
+commit 6344ea991710a82784538f97d1d2f4fe8526dc1f
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 15:11:29 2015 -0430
+
+    Actualizando repo
+
+commit a1559fc93bd39fc3060665b4fea253481025786f
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 15:02:40 2015 -0430
+
+    Actualizando repo
+
+commit d192fd9534186076e319893e29b983fc28a33301
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:48:10 2015 -0430
+
+    Actualizando repo
+
+commit 0f6445d98fdf27c4aa9223e785b827a2c62497a0
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:47:13 2015 -0430
+
+    Actualizando repo
+
+commit f3ebaa36555742585c367b54d616795723e2ce63
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:46:39 2015 -0430
+
+    Actualizando repo
+
+commit fcd8131a037bbe2c61fc3c3158b3691b0eda4f4e
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:35:43 2015 -0430
+
+    Actualizando repo
+
+commit c56fc1e1b3b466085fa405b530b31a2534d1a8ed
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:31:53 2015 -0430
+
+    Actualizando repo
+
+commit e32955b474269f0e3ada9674711342e86f59973e
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:25:21 2015 -0430
+
+    Actualizando repo
+
+commit 08170588b346d7efd8af9c0ac656c950d88e8523
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:19:31 2015 -0430
+
+    Actualizando repo
+
+commit 219edea477b7352b1d0b80bca72388d9a5bf46fb
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 14:13:24 2015 -0430
+
+    Actualizando repo
+
+commit 4574f10e5a3e5c442d10ccd2133cc0c6048dd23f
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 13:23:24 2015 -0430
+
+    Actualizando repo
+
+commit 48e567a87f8f2c45487bd1ce41cf8bde64675b2d
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 13:07:46 2015 -0430
+
+    Actualizando repo
+
+commit cd2a4f4f6d67eb6c472a4a5112b5bc4e15c54354
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 16 13:02:41 2015 -0430
+
+    Actualizando repo
+
+commit 76f5ff1fcffa495203aff3f2180380bf26cf6757
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 13 10:11:35 2015 -0430
+
+    actualizando repo
+
+commit 17d6179e7e0105183a57d0fdb2c23c68334f808b
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 13 10:10:42 2015 -0430
+
+    actualizando repo
+
+commit d342bd3a8e28d694e77764d8c5d3d63ff7688efe
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 13 10:07:14 2015 -0430
+
+    actualizando repo
+
+commit aa1a07b43987fe323f8928c35c9973bf014d21a9
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 13 10:05:44 2015 -0430
+
+    actualizando repo
+
+commit 048104132c2a85dc9bf1be3057052c11fa36d83d
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Mar 12 20:37:24 2015 +0000
+
+    Actualizando repo
+
+commit 547dca1463b741593ba3b8896d0d923b0afedd0e
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Mar 9 17:03:49 2015 -0400
+
+    Actualizando repo
+
+commit 3a372b923387cce15f1fbdc347e3ba9dcc283793
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 6 09:46:44 2015 -0500
+
+    Actualizando repo
+
+commit b2474ff6981c153b2e428cf58e0bec45428bf0c1
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 6 09:09:25 2015 -0500
+
+    Actualizando repo
+
+commit 8e82658c92b11f9ca599845035717fabf5664a84
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 6 08:36:56 2015 -0500
+
+    Actualizando repo
+
+commit b9f496dee728bc77f1e76c6b476e09e84a2fa4a1
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Mar 6 08:35:30 2015 -0500
+
+    Actualizando repo
+
+commit 701a27234834b3eb2701767ac796b038b7b81a73
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Feb 25 20:28:01 2015 -0500
+
+    Actualizando repo
+
+commit 5b2be376c6c8000f638e2be7af4884ba5826961e
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Feb 23 15:26:18 2015 -0500
+
+    Actualizando repo
+
+commit c43b6c09616842f38467a3677d8939f4301d8e84
+Author: root <root@tma.(none)>
+Date:   Mon Feb 23 15:24:49 2015 -0500
+
+    Actualizando repo
+
+commit 044bfa1affe549b8c04548b208b1c6de81d1afe0
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Feb 22 10:08:17 2015 -0500
+
+    Actualizando repo
+
+commit 175b6f7be82fa1102fcca23cc800f40a7adc48d0
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Feb 17 15:20:41 2015 -0500
+
+    Actualizando repo
+
+commit 127b8c4bd28e143766d3d63939b69085dd958bc2
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Feb 17 15:06:41 2015 -0500
+
+    Actualizando repo
+
+commit 6ac78c42e2a339ae95e61a3b7017570c208a874f
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Feb 17 14:16:53 2015 -0500
+
+    Actualizando repo
+
+commit a8d6096deb31d74eec2e3f84d96d0ce3c4fe2278
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Feb 17 13:53:53 2015 -0500
+
+    Actualizando repo
+
+commit 2495b92793039796bdc97c4cffd32b6781203a52
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Feb 16 15:53:40 2015 -0500
+
+    Actualizando repo
+
+commit 30472d917250eb8394c7377d52fa8d29a703e02f
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Feb 12 21:30:19 2015 -0500
+
+    Actualizando repo
+
+commit bdf468aa51ec60edb8c0879d732571675508f0da
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Feb 12 21:21:59 2015 -0500
+
+    Actualizando repo
+
+commit 4dbbbbbe334066d1c69163858e87981cf4503996
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Feb 12 21:12:46 2015 -0500
+
+    Actualizando repo
+
+commit 127bfeafbf1b25553a068591745885eb4658fe3e
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Feb 1 22:27:08 2015 -0430
+
+    Actualizando repo
+
+commit bbc57a2b565708b75c88b082e23b9921a3df8006
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 29 12:04:43 2015 -0500
+
+    Actualizando repo
+
+commit d192d42d2e90c33fea48392038ce739c93ca9537
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 29 12:03:57 2015 -0500
+
+    Actualizando repo
+
+commit f3fc892ce4790bac7480de2a4a5ad64400f83720
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 22 13:45:06 2015 -0500
+
+    Actualizando repo
+
+commit 150d14abac5610c2c4b3e887ff7b89ac5ecee27f
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 22 13:44:08 2015 -0500
+
+    Actualizando repo
+
+commit 335d4f3ecc828c02fbad3a76e361f13ce6df653c
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 19 15:50:36 2015 -0500
+
+    Actualizando repo
+
+commit 2c0681838831eff523790c47bd0a98694c07a2d8
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 19 15:49:24 2015 -0500
+
+    Actualizando repo
+
+commit 2152aca6416b6b3e6ad70303cd96159e2d5dea70
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Jan 17 01:12:19 2015 -0500
+
+    Actualizando ruta FTP
+
+commit e3474e4aee5c5f26049e7b3134981b1a82342c99
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Jan 17 01:10:26 2015 -0500
+
+    Actualizando repo
+
+commit 8238cec82d26dd05a996abd2c606a7fc8b6a4c86
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 19:09:35 2015 -0500
+
+    Actualizando repo
+
+commit 23eb5eb9afb47921f3340f441d9deebe0405948a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 18:53:57 2015 -0500
+
+    Open dArignac/pelican-minification/#2
+
+commit b5e7c42c2880b10324bb16d66bb60bc2527aa40a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 18:43:51 2015 -0500
+
+    Agregando pelican-minification 0.1.0 para prueba
+
+commit bed3ab38ae7e2f8d03f9a98959b024c90f86b575
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 18:42:23 2015 -0500
+
+    Actualizando repo
+
+commit 06f1928252d16417d3f6e729a09dcb6fab0f037f
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 18:41:15 2015 -0500
+
+    Actualizando repo
+
+commit ca687399af2e9ef38c4daec132b84ebecef2814d
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 18:06:18 2015 -0500
+
+    Actualizando repo
+
+commit 15a92e5d11ee32eaece03c36e78fa308b030f70e
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 15:29:17 2015 -0500
+
+    Actualizando repo
+
+commit cdb2ba5faa8c421167c5000a389f2ade281d9efa
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 15:23:25 2015 -0500
+
+    Actualizando repo
+
+commit c9afe60cac5485c2cdca22132b689609e9f182ec
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:58:01 2015 -0500
+
+    Actualizando repo
+
+commit 7dada2d2ea1ef368a944b9f9dcaa4fb7fb0c498a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:51:02 2015 -0500
+
+    Actualizando repo
+
+commit eb6788a2a466ea9f11319c69a7e170b13beb2637
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:36:05 2015 -0500
+
+    Actualizando repo
+
+commit 5c885b68dfbd89cf75b65d7860ae2da693f722c5
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:17:54 2015 -0500
+
+    Actualizando repo
+
+commit a0bd0f3e77e1b9985b5f47a28de5f94bf3360356
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:13:56 2015 -0500
+
+    Actualizando repo
+
+commit 95030627e7563d12e08d63d23ed9c0aed6d7379c
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:09:52 2015 -0500
+
+    Actualizando repo
+
+commit aa16263a3d6fdb4b1f67e80b9c462612dcbfbe22
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 14:02:08 2015 -0500
+
+    Actualizando repo
+
+commit b8b971e8f784a1eb760979116d388475ae536c1b
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 13:03:53 2015 -0500
+
+    Actualizando repo
+
+commit ed3d2deafc7ada7611ec1be1f00e4c9010b0a891
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 12:51:45 2015 -0500
+
+    Actualizando repo
+
+commit 73dc0631cea4b69e6dd464ac2763224feeaecb3a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:45:23 2015 -0500
+
+    Actualizando repo
+
+commit 2b7ec7a58336018cb354817d8f8c6c76ad56a16d
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:01:12 2015 -0500
+
+    Actualizando repo
+
+commit 544a16698bff299913ec2deeebeeafbdca617782
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:09:26 2015 -0430
+
+    Agregando path para htaccess
+
+commit cf50ae4ae218ec3058933553acdcf327fbc73393
+Merge: 31f3d16 9a7b5f8
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:08:28 2015 -0430
+
+    Merge branch 'master' of github.com:abr4xas/pblog
+
+commit 31f3d16e1d950463800936929db5c2698d4da264
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 11:08:16 2015 -0430
+
+    Agregando path para htaccess
+
+commit 9a7b5f84f87beba6e918b7f8633a46f886d2d3e8
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 01:01:00 2015 -0500
+
+    Actualizando repo
+
+commit d51e4059a21f2342d4f73b70b4a0e52cab845761
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:56:54 2015 -0500
+
+    Actualizando repo
+
+commit aaa820af57dc31d7d19fe118e7263bc172fd438a
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:45:34 2015 -0500
+
+    Actualizando repo
+
+commit f3de143117ca858029898da08011d6db826d14ad
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:42:20 2015 -0500
+
+    Actualizando repo
+
+commit 7aef852bd74a3606378eec3a3e6cc44669eddc29
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:28:50 2015 -0500
+
+    Actualizando repo
+
+commit 3dcf8902e05fd7290de2ae957aa481cc39792b5e
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:00:28 2015 -0500
+
+    Actualizando repo
+
+commit 4c896a15c9a397b43af21412bcfd7bc8a7c76cd8
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 23:56:48 2015 -0500
+
+    Actualizando repo
+
+commit c9d0c97cb93a11a4849fefaf8024830d8654324a
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 23:51:15 2015 -0500
+
+    Actualizando repo
+
+commit 22a032b5023ed7338514117224a5264628e8853e
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 16 00:14:10 2015 -0430
+
+    Agregadas variables de control e informacion para el tema
+
+commit 05aeb1d68100636d0a4bbd1d3173a3e4d21945f2
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 19:49:19 2015 -0500
+
+    Atualizando travis.yml
+
+commit 96b915af981bd1410b330c7d09f9177ccdf31466
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 19:43:31 2015 -0500
+
+    Actualizando script para actualizacion de submodulos git
+
+commit 482849e4a0e3d8f3c5b7c487075cf81d66eea985
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 19:39:24 2015 -0500
+
+    Remove Inline small JavaScript
+
+commit 6d129306c0ba859bac706d60dc538bd434563794
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 19:17:57 2015 -0500
+
+    Minifying normalize.css.min
+
+commit aa9f7873df1158a6777ef24eff015b63eb56aa7c
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 18:55:54 2015 -0500
+
+    Cambios minimos
+
+commit 6ee3cae86d9c8e67851af6af21596804056c141e
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 18:28:09 2015 -0500
+
+    Actualizando normalize.css
+
+commit bf8a765db1b94d4f17c64b3b36e6847a1916af0f
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 17:42:05 2015 -0500
+
+    Agregando boton de Planeta VaSLibre
+
+commit bee30bc727c060cc232e6fb171a6d3641a55916e
+Merge: 25d4ed0 78d8038
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 17:41:48 2015 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 25d4ed085138a3e7383bea3a9e4afda62a7dc600
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 17:41:12 2015 -0500
+
+    Agregando boton de Planeta VaSLibre
+
+commit 78d8038576e3a1e0606141ecc2f9079d51f040c5
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 16:09:35 2015 -0430
+
+    Update README.md
+
+commit bfe4f50987d2cb3e1fddaf8231c1a464e8bf47aa
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jan 14 15:17:50 2015 -0500
+
+    Actualizando repo
+
+commit 4670bd073dda1adcd0ea69d3fcb94ab4dc0a2c81
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:40:41 2015 -0430
+
+    Update .travis.yml
+
+commit c26cd5cab0a4948506433f7235c1b83f74f0f7d2
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:37:41 2015 -0430
+
+    Update README.md
+
+commit bbe7c45d9a9e7a65e3a43cb55529d1ade0b05838
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:33:35 2015 -0430
+
+    Update requirements.txt
+
+commit 8fe89c3a8c9f2cf7520f300e4466376bacf9a85b
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Wed Jan 14 15:33:14 2015 -0430
+
+    Create .travis.yml
+
+commit f968b53ed04f58cda2bde0e7324c1dd43b8de5b4
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Jan 2 13:44:38 2015 -0500
+
+    Actualizado
+
+commit a97bbd751248c2f763e79f7ee43a904e01923e56
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Dec 30 12:21:59 2014 -0500
+
+    Actualizado
+
+commit ca825e9813d4ea318acd484b2447633865eb64ec
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 28 18:12:05 2014 -0500
+
+    actualizado
+
+commit d2caa616e77d19136f62698341cf28f4465a30aa
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 28 15:28:27 2014 -0500
+
+    actualizado
+
+commit b33795385cfa64f5f31547a8cdfe6473531ae650
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 28 15:26:56 2014 -0500
+
+    Actualizado
+
+commit e86cf1674c1ebd2bb397fcf975403b6d2a872161
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 18 13:06:11 2014 -0500
+
+    Actualizado
+
+commit df20fcfbc7e45988f3d1ddc98a3cdca1ed008572
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 18 09:26:45 2014 -0500
+
+    Agragado otra plantilla
+
+commit c7c93752be6b0d3ab336b9dccb81cc558cccec55
+Merge: 2ac6443 8f1a23c
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 13 10:49:14 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 2ac6443d3c15e081f0e228dffe99c94e99e7158c
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 13 10:45:15 2014 -0500
+
+    Actualizado
+
+commit 3528adee509320816a5a1ced6071f9b35aced7f1
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 13 10:42:52 2014 -0500
+
+    Actualizado
+
+commit 8f1a23cc48c4b04dbc0fafab7f5214ec956b43ff
+Author: ángel <abr4xas@users.noreply.github.com>
+Date:   Thu Dec 11 15:13:47 2014 -0430
+
+    Update pelicanconf.py
+    
+    Se agrega variable para el meta de verificacion de google.
+
+commit 093413221d8787397f442fbfce04a22fc7f915b8
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Dec 10 09:03:39 2014 -0500
+
+    Actualizado
+
+commit 241bf8e0aecfb6ede64f7a26136f8e5c484cbd20
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Dec 10 08:51:25 2014 -0500
+
+    Actualizado
+
+commit 21c5d57caa7ee4a76ffd977b94f88bbece6c48fb
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Dec 9 15:30:44 2014 -0500
+
+    Actualizada la paginacion
+
+commit 6da52320073824a5a1339ac3341ec0bbeca7bcba
+Author: ángel <bullgram@gmail.com>
+Date:   Mon Dec 8 16:14:30 2014 -0430
+
+    Update publishconf.py
+
+commit 8b069936ef7ea3b555ddaa3b6a1a760ed7fa30bc
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 15:28:43 2014 -0500
+
+    Agregado hauntr
+
+commit 18ef86abd384935c5cbbdb5de8e5dce7629f1a7c
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 15:28:27 2014 -0500
+
+    Agregado otro modulo
+
+commit e4ce7c3dc11aaae9640baf599d1a02365d77cbba
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:54:21 2014 -0500
+
+    Actualizado
+
+commit 7f95578d0b31c967d69dc92ad894ae5073086b26
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:48:01 2014 -0500
+
+    Actualizado
+
+commit 98e45de2e82d9ddd4d9d68c138a880f700d72ef0
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:47:02 2014 -0500
+
+    Actualizado
+
+commit 96f655ebf72019c14248fc312d136e5180335b69
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 8 13:30:41 2014 -0500
+
+    Se agrega tema nuevo y plugins
+
+commit a37f79a136d2ae3939499d41f123292d530331a5
+Merge: b5f79d1 0d73b44
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 7 14:16:27 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit b5f79d160c1e51913b32b373638a60cf0380939d
+Author: abr4xas <me@abr4xas.org>
+Date:   Sun Dec 7 14:15:51 2014 -0500
+
+    Actualizado
+
+commit 0d73b441f66f3fd5cc7bcf1ee78ea3022a85636d
+Author: ángel <bullgram@gmail.com>
+Date:   Sat Dec 6 19:36:57 2014 -0430
+
+    Update README.md
+
+commit 4d0ef7205d2bbd6c018400837f199604d6a7bf46
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 18:10:36 2014 -0500
+
+    Actualizado
+
+commit 30830faea11f94682d5f303d6e7402134740a908
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 18:10:15 2014 -0500
+
+    Actualizado, se agregan valores para ftp
+
+commit d0921cce3f3dcfe2292f4019775d278c23ddd48a
+Merge: 4bf9b8c b292577
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:18:27 2014 -0500
+
+    Merge branch 'master' of https://github.com/abr4xas/pblog
+
+commit 4bf9b8c5bb7fd1351e291ee6300b1f3df56bc9e8
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:17:53 2014 -0500
+
+    Actualizado
+
+commit 9fc2ee75e68819e5a6e5b7e7c39797bcf673d850
+Author: abr4xas <me@abr4xas.org>
+Date:   Sat Dec 6 16:17:38 2014 -0500
+
+    Se agrega Makefile
+
+commit b292577df2ddc3f94368c32759e40f982143fd28
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Dec 5 11:00:18 2014 -0430
+
+    Create requirements.txt
+
+commit e4936c4c73c067d154772323b99a2c04bdd6ed57
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Dec 4 10:33:39 2014 -0500
+
+     ...
+
+commit b3074002fba6bac3ab09385edf3a74d967c44523
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Dec 1 13:33:10 2014 -0500
+
+    Actualizado
+
+commit 668cce75bf1543b98e12e8601b60db35e6f8dde3
+Author: abr4xas <me@abr4xas.org>
+Date:   Fri Nov 28 10:14:52 2014 -0500
+
+    Actualizado
+
+commit bf774476bf0497bf96da346417dc5080645e6eff
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 10:25:00 2014 -0430
+
+    Create .gitmodules
+
+commit a1d0e599318f6eed4364ea78f2aaaba49c01cc4d
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:56:26 2014 -0430
+
+    Create pelicanconf.py
+
+commit 2de2f0b997cbda5152318ce3bf82059b3a9a4b47
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:53:25 2014 -0430
+
+    Update .gitignore
+
+commit 5b29e69c4580859fbd9eecca70b43b6a5ecb34f0
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:50:21 2014 -0430
+
+    Create README.md
+
+commit 693c298d32c3ca01fbadcc246abc68978f2decca
+Author: ángel <bullgram@gmail.com>
+Date:   Fri Nov 28 09:48:50 2014 -0430
+
+    Initial commit
