@@ -28,25 +28,28 @@ MY_WOT = '5b964f1b4f47785f7e24'
 MSVALIDATE = 'F42B6441E13617A9043193F830381A74'
 SITE_DESCRIPTION = 'El blog de abr4xas, blog sobre noticias, tecnología, música, gnu/linux, anime, actualidad, intercambio y directorio de informacion de servicios profesionales en tecnología. Eventos, Asesorias Software Libre'
 TAG_LINE = '# nano /var/log/life.log'
+AUTHOR_PIC_URL = 'https://secure.gravatar.com/avatar/b5a93f6390e4bdb85a484d15b549d467'
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', '404')
+# [Casper2Pelican] Header images
+DEFAULT_HEADER_IMAGE = u'theme/images/bear.jpg'
+ARCHIVE_HEADER_IMAGE = None
+SITE_LOGO = None  #u'images/logo.svg'
+AUTHOR_LOCATION = u'Venezuela'
+AUTHOR_BIO = u'Front-end Dev, Heavy Metal... In Love with @nezybit &#x1F496;'
+
 # Blogroll
 LINKS =  (
-            ('xombra', 'http://xombra.com/'),
-              ('sinfallas', 'http://sinfallas.wordpress.com/'),
-              ('echevemaster', 'http://echevemaster.org/'),
-              ('Blog Bitix', 'http://picodotdev.github.io/blog-bitix/'),
-)
-# Social widget
-SOCIAL = (
-          ('twitter', 'http://twitter.com/abr4xas'),
-          ('github', 'http://github.com/abr4xas'),
-)
+    ('abr4xas @ linkedin', 'https://ve.linkedin.com/in/ancrz'),
+    ('abr4xas @ behance', 'https://behance.net/abr4xas'),
+    ('abr4xas @ twitter', 'https://twitter.com/abr4xas'),
+    ('abr4xas @ github', 'http://github.com/abr4xas'),
+    )
 PLUGIN_PATHS = ["plugins",]
 PLUGINS = ['neighbors','minification','sitemap',]
 #PLUGINS = ['sitemap',]
 SITEMAP = {
-'format': 'xml',
-    'priorities': {
+    'format': 'xml',
+        'priorities': {
         'articles': 0.5,
         'indexes': 0.5,
         'pages': 0.5
