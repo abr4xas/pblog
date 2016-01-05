@@ -1,4 +1,4 @@
 pelican
 markdown
 pelican-minification
-py_w3c
+neighbors
