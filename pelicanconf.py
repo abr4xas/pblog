@@ -32,7 +32,7 @@ AUTHOR_PIC_URL = 'https://secure.gravatar.com/avatar/b5a93f6390e4bdb85a484d15b54
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', '404')
 # [Casper2Pelican] Header images
 DEFAULT_HEADER_IMAGE = u'theme/images/bear.jpg'
-ARCHIVE_HEADER_IMAGE = None
+ARCHIVE_HEADER_IMAGE = u'theme/images/banner-bg.jpg'
 SITE_LOGO = None  #u'images/logo.svg'
 AUTHOR_LOCATION = u'Venezuela'
 AUTHOR_BIO = u'Front-end Dev, Heavy Metal... In Love with @nezybit &#x1F496;'
