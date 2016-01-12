@@ -21,7 +21,7 @@ USE_OPEN_GRAPH = 'True'
 OPEN_GRAPH_FB_APP_ID = '742637482460716'
 PUBLISHER = 'https://plus.google.com/+Abr4xasOrg'
 RELATED_POSTS_MAX = 10
-GOOGLE_ANALYTICS = 'UA-56619331-1'
+GOOGLE_ANALYTICS = 'UA-18333188-1'
 GOOGLE_SV = '858AWu06X8qc7TbbcoxGVUySmw5YVEvau_yPyr3_QKI'
 ALEXA = '1zzoXK9co8WU3QqIDIWkiNC1Li0'
 MY_WOT = '5b964f1b4f47785f7e24'
@@ -33,9 +33,9 @@ DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', '404')
 # [Casper2Pelican] Header images
 DEFAULT_HEADER_IMAGE = u'theme/images/bear.jpg'
 ARCHIVE_HEADER_IMAGE = u'theme/images/banner-bg.jpg'
-SITE_LOGO = None  #u'images/logo.svg'
+SITE_LOGO = None #u'theme/images/logo.png'
 AUTHOR_LOCATION = u'Venezuela'
-AUTHOR_BIO = u'Front-end Dev, Heavy Metal... In Love with @nezybit &#x1F496;'
+AUTHOR_BIO = u'Junior Frontend Web Developer, algunas veces linux otras OSX...  In Love with @nezybit &#x1F496;'
 
 # Blogroll
 LINKS =  (
