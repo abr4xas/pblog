@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
-SITEURL = 'https://blog.abr4xas.org'
+SITEURL = 'http://blog.abr4xas.org'
 # Development
-#SITEURL = 'http://tma.local:8000/'
+#SITEURL = 'http://vb.dev/pblog/output/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
@@ -15,6 +15,11 @@ STATIC_PATHS = ['files', 'images']
 GITHUB_URL = 'https://github.com/abr4xas/'
 THEME = 'Casper2Pelican'
 FEED_RSS = 'feed'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 DISQUS_SITENAME = 'elblogdeabr4xas'
 TWITTER_USERNAME = 'abr4xas'
 USE_OPEN_GRAPH = 'True'
@@ -31,7 +36,7 @@ TAG_LINE = '# nano /var/log/life.log'
 AUTHOR_PIC_URL = 'https://secure.gravatar.com/avatar/b5a93f6390e4bdb85a484d15b549d467'
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', '404')
 # [Casper2Pelican] Header images
-DEFAULT_HEADER_IMAGE = u'theme/images/bear.jpg'
+DEFAULT_HEADER_IMAGE = u'theme/images/main-header.jpg'
 ARCHIVE_HEADER_IMAGE = u'theme/images/banner-bg.jpg'
 SITE_LOGO = None #u'theme/images/logo.png'
 AUTHOR_LOCATION = u'Venezuela'
@@ -43,6 +48,7 @@ LINKS =  (
     ('abr4xas @ behance', 'https://behance.net/abr4xas'),
     ('abr4xas @ twitter', 'https://twitter.com/abr4xas'),
     ('abr4xas @ github', 'http://github.com/abr4xas'),
+    ('abr4xas @ fiverr', 'https://www.fiverr.com/abr4xas'),
     )
 PLUGIN_PATHS = ["plugins",]
 PLUGINS = ['neighbors','minification','sitemap',]
@@ -61,13 +67,13 @@ SITEMAP = {
     }
 }
 STATIC_PATHS = [
+    'images',
     'static/browserconfig.xml',
     'static/large.png',
     'static/square.png',
     'static/tiny.png',
     'static/wide.png',
     'static/socialmedia.txt',
-    'static/.htaccess',
 ]
 EXTRA_PATH_METADATA = {
     'static/browserconfig.xml': {
@@ -87,8 +93,5 @@ EXTRA_PATH_METADATA = {
     },
     'static/socialmedia.txt': {
         'path':'socialmedia.txt'
-    },
-    'static/.htaccess': {
-        'path':'.htaccess'
     },
 }
