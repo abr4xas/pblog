@@ -5,7 +5,7 @@ AUTHOR = u'abr4xas'
 SITENAME = u'El blog de abr4xas'
 SITEURL = 'http://blog.abr4xas.org'
 # Development
-#SITEURL = 'http://vb.dev/pblog/output/'
+#SITEURL = 'http://pblog.dev/'
 TIMEZONE = 'America/Caracas'
 DEFAULT_LANG = u'es'
 SITE_LANG = 'es_ES'
@@ -40,7 +40,7 @@ DEFAULT_HEADER_IMAGE = u'theme/images/main-header.jpg'
 ARCHIVE_HEADER_IMAGE = u'theme/images/banner-bg.jpg'
 SITE_LOGO = None #u'theme/images/logo.png'
 AUTHOR_LOCATION = u'Venezuela'
-AUTHOR_BIO = u'Junior Frontend Web Developer, algunas veces linux otras OSX...  In Love with @nezybit &#x1F496;'
+AUTHOR_BIO = u'Junior Frontend Web Developer, algunas veces linux otras OSX...  In Love with @nezybit <i class="twa twa-sparkling-heart"></i>'
 
 # Blogroll
 LINKS =  (
