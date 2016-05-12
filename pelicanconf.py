@@ -40,7 +40,7 @@ DEFAULT_HEADER_IMAGE = u'theme/images/main-header.jpg'
 ARCHIVE_HEADER_IMAGE = u'theme/images/banner-bg.jpg'
 SITE_LOGO = None #u'theme/images/logo.png'
 AUTHOR_LOCATION = u'Venezuela'
-AUTHOR_BIO = u'Junior Frontend Web Developer, algunas veces linux otras OSX...  In Love with @nezybit <i class="twa twa-sparkling-heart"></i>'
+AUTHOR_BIO = u'Junior Frontend Web Developer, algunas veces linux otras OSX...  In Love with @nezybit <i class="twa twa-1f496"></i>'
 
 # Blogroll
 LINKS =  (
