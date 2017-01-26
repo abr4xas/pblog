@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/abr4xas/pblog.svg?branch=master)](https://travis-ci.org/abr4xas/pblog)
-[![Codeship Status for abr4xas/pblog]
 <img src="logo.png" alt="abr4xas.org">
 ## How to use
 
