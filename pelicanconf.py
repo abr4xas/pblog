@@ -40,7 +40,7 @@ DEFAULT_HEADER_IMAGE = u'theme/images/main-header.jpg'
 ARCHIVE_HEADER_IMAGE = u'theme/images/banner-bg.jpg'
 SITE_LOGO = None #u'theme/images/logo.png'
 AUTHOR_LOCATION = u'Venezuela'
-AUTHOR_BIO = u'Front/Back end Web Developer, algunas veces linux otras OSX...  In Love with @nezybit <i class="twa twa-1f496"></i>'
+AUTHOR_BIO = u'Front/Back end Web Developer, algunas veces linux otras OSX...'
 
 # Blogroll
 LINKS =  (
@@ -52,7 +52,6 @@ LINKS =  (
     )
 PLUGIN_PATHS = ["plugins",]
 PLUGINS = ['neighbors','minification','sitemap',]
-#PLUGINS = ['sitemap',]
 SITEMAP = {
     'format': 'xml',
         'priorities': {
